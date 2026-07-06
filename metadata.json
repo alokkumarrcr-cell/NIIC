@@ -1,0 +1,6 @@
+{
+  "name": "Navodaya Innovation and Incubation Centre",
+  "description": "A high-performance portal for Navodaya Innovation and Incubation Centre (NIIC), featuring administrative tools, interactive tech playgrounds, and live custom animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
