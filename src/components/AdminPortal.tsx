@@ -62,7 +62,7 @@ export const AdminPortal: React.FC<AdminPortalProps> = ({ onClose }) => {
   // Authentication states
   const [isAuthenticated, setIsAuthenticated] = useState<boolean>(false);
   const [username, setUsername] = useState<string>('admin');
-  const [password, setPassword] = useState<string>('niic2026');
+  const [password, setPassword] = useState<string>('');
   const [authError, setAuthError] = useState<string>('');
 
   // Tab State
